@@ -31,9 +31,9 @@ An end-to-end data analytics project exploring programming language popularity, 
 The analysis provides a comparative view of programming languages across popularity, technical specialization, learning difficulty, compensation, and demand. It helps developers and aspiring tech professionals explore technology trends and make more informed learning and career decisions.
 
 ## Repository Contents
-- `global_programming_languages_dataset_2020_2026.csv` – Dataset used for analysis
+- `www.kaggle.com/code/hosseinbadrnezhad/global-programming-languages-intelligence-dataset/input` – Dataset used for analysis
 - `EDA_GPL.ipynb` – Python notebook for exploratory data analysis
-- Power BI report (`.pbix`) – Interactive dashboards and visualizations, if included
+- `Global Programming Language Analysis.pptx` – Full project presentation deck, including analysis, visualizations, key insights, and recommendations
 
 ## Disclaimer
 The findings are based on the dataset used in this project. Salary, popularity, and demand figures should be interpreted within the dataset's assumptions and limitations and may not represent actual market conditions.
